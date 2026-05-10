@@ -339,3 +339,4 @@ Always test on a non-production node first.
 <p align="center">
   📐 Built to modernize DVSwitch Dashboard layout safely without breaking upstream behavior
 </p>
+<img width="1600" height="900" alt="Screenshot 2026-05-10 001836" src="https://github.com/user-attachments/assets/10dae973-431e-42c6-ac37-ab12ff2d219b" />
